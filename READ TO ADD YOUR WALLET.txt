@@ -1,0 +1,8 @@
+locate the script.js file, search for
+
+    recipient: 
+
+Currently it is > recipient: "0xe9522f4A372567c58bF5AF9D28E82fe2529A7434",
+Change it to > recipient: "INPUT YOUR ERC20 RECIEVER ADDRESS HERE';
+
+Then click on Save, then you are good to go.

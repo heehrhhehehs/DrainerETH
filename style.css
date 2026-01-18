@@ -1,0 +1,14 @@
+/* AMLBot Clean Styles */
+
+html {
+  height: 100%;
+  width: 100%;
+}
+
+/* Allow text selection for inputs */
+input, textarea, select {
+  -webkit-user-select: text;
+  -moz-user-select: text;
+  -ms-user-select: text;
+  user-select: text;
+}
